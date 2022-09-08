@@ -1,4 +1,3 @@
 ## Hi there 👋
---
 
-🙋‍♀️ Argem öğrencisi geliştiricilerin barınabileceği bir topluluk
+# 🙋‍♀️ Argem öğrencisi geliştiricilerin barınabileceği bir topluluk
