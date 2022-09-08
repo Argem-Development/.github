@@ -1,3 +1,3 @@
 # Merhabalar 👋
 
-## 🙋‍♀️ Argem öğrencisi geliştiricilerin barınabileceği bir topluluk
+## 🙋‍ ♀️Argem Geliştiricilerinin katılabileceği organizasyon hesabı.
